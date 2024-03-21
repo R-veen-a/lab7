@@ -1,3 +1,12 @@
+git log -5 --0neline
+git log -p
+git short log
+git short log -5
+--preety
+
+
+
+
 # lab7L6
 mkdircd git init
 vim1 gtadd, commit
